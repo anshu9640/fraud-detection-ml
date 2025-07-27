@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.sav
+*.log
+.DS_Store
+fraud_models/
+label_encoders/
